@@ -21,6 +21,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 public class HelpActivity extends Activity {
+
 	AutoCompleteTextView textView;
 	ImageButton img;
 	TextView t1;
