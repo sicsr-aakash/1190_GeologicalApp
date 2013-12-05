@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeologicalApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_introduction">Introduction</string>
+    <string name="title_activity_rock_type">Rock Types</string>
+    <string name="title_activity_rock_change">RockChange</string>
+    <string name="title_activity_rock_cycle">RockCycle</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="title_activity_sedimentary_type">Sedimentary Rocks</string>
+    <string name="title_activity_metamorphic_type">Metamorphic Rocks</string>
+    <string name="title_activity_igneous_type">Igneous Rocks</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="homeIntroduction">Introduction</string>
+    <string name="homeTypesOfRocks">Types Of Rocks</string>
+    <string name="homeHelp">Help and Search</string>
+    <string name="homeTestYourSkills">Test Your Skills</string>
+    <string name="homeQuit">Quit</string>
+    <string name="title_activity_help">Help</string>
+    <string name="search_hint">Search Rocks</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="try_again">Try Again</string>
+    <string name="quiz_back">Back</string>
+
+    <string-array name="Rocks">
+        <item>wacke</item>
+        <item>siltstone</item>
+        <item>shale</item>
+        <item>sandstone</item>
+        <item>rocksalt</item>
+        <item>limestone</item>
+        <item>dolostone</item>
+        <item>coquina</item>
+        <item>rockgypsum</item>
+        <item>conglomerate</item>
+        <item>coal</item>
+        <item>chert</item>
+        <item>breccia</item>
+        <item>arkose</item>
+        <item>soapstone</item>
+        <item>slate</item>
+        <item>serpentinite</item>
+        <item>schist</item>
+        <item>quartzite</item>
+        <item>phylite</item>
+        <item>mylonite</item>
+        <item>migmatite</item>
+        <item>marbles</item>
+        <item>hornfels</item>
+        <item>gneiss</item>
+        <item>eclogite</item>
+        <item>argillite</item>
+        <item>amphibolite</item>
+        <item>tonalite</item>
+        <item>syenite</item>
+        <item>scoria</item>
+        <item>pyroxenite</item>
+        <item>pumice</item>
+        <item>porphyry</item>
+        <item>peridotite</item>
+        <item>pegmatite</item>
+        <item>obsidian</item>
+        <item>granite</item>
+        <item>gabbro</item>
+        <item>felsite</item>
+        <item>dunite</item>
+        <item>diorite</item>
+        <item>basalt</item>
+        <item>andesite</item>
+    </string-array>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>

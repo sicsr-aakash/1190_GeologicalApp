@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/home_screen_background"
+    tools:context=".QuizActivity" >
+
+   
+    
+     <Button
+         android:id="@+id/btn_try_again"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+         android:layout_marginLeft="35dp"
+         android:layout_marginRight="35dp"
+         android:background="@drawable/black"
+         
+         android:text="@string/try_again" />
+    
+    <Button
+        android:id="@+id/btn_quiz_back"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/black"
+       
+        android:text="@string/quiz_back" />
+</LinearLayout>

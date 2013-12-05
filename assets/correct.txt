@@ -1,0 +1,38 @@
+igneous
+lava
+intrusive
+extrusive
+basaltic
+gabbro
+basalt and scoria
+granitic
+granite
+Rhyolite, Pumice, and Obsidian
+metamorphic rock
+nonfoliated
+foliated
+slate, gneiss, and schist
+marble and quartzite
+sedimentary rock
+sediments
+detrital
+compaction
+cementation
+conglomerate
+breccia
+clay
+shale
+silt
+siltstone
+sand
+sandstone
+gravel
+conglomerate or breccia
+chemical
+limestone and rock salt
+organic
+coquina
+limestone, chalk, coal, and coquina
+igneous
+metamorphic
+

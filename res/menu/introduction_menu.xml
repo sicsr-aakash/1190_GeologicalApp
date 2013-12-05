@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+  <item
+        android:id="@+id/introduction_about"
+        android:showAsAction="always|withText"
+        android:icon="@android:drawable/ic_dialog_info"
+	    android:title="About Geology"/>
+    <item
+        android:id="@+id/introduction_rock_cycle"
+        android:title="Rock Cycle"
+       android:showAsAction="always|withText"
+    />
+   <item
+        android:id="@+id/intoduction_call"
+        android:title="call"
+        android:icon="@android:drawable/ic_menu_call"
+       android:showAsAction="always|withText"
+    />
+   <item
+        android:id="@+id/intoduction_web_link"
+        android:title="Web Links"
+       android:showAsAction="never"
+    />
+ 	<item
+        android:id="@+id/introduction_Email_Us"
+        android:title="Email Us"
+       android:showAsAction="never"
+    />
+ 	
+ 	<item
+        android:id="@+id/introduction_home"
+        android:title="Home"
+       android:showAsAction="never"
+    />
+ 	<item
+        android:id="@+id/introduction_back"
+        android:title="Back"
+       android:showAsAction="never"
+    />
+</menu>

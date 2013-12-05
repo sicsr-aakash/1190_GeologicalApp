@@ -1,0 +1,46 @@
+<br/><br/><u><b><big>How to Use GeoApp</big></b></u><br/><br/>
+The application consists of 5 types of touch &#45; buttons on the home screen.
+Every touch button has the following functions:
+<br/><br/><u><b><big>1.Introduction</big></b>
+</u><br/><br/>In this tab , we have introduced 
+geology in very brief detail.<br/><br/>
+<b><u>1.1 About Geology</u></b>  &#45;  The link to the same introduction.
+<br/><b><u><br/>1.2 Rock Cycle</u></b>  &#45;  The various stages and types of
+rock cycles has been explained under this tabn under
+introduction.<br/><br/><b><u>1.3 Call</u></b>  &#45;  This is an exclusive 
+feature we have added to the app, on click , it will
+initiate a call to the helpline provided within the 
+app.<br/><br/><b><u>1.4 Web Links</u></b>  &#45;  Links to various websites 
+related to geology can be found here for more 
+information relating to a particular topic.<br/>
+<b><u><br/>1.5 Email Us</u></b> &#45; This feature is used to send an email
+to the email &#45; id provided in the application.<br/><br/>
+<b><u>1.6 Home</u></b> &#45; Go back to home screen.<br/><br/>
+<b><u>1.7 Back </u></b>&#45; Go back to previous screen.<br/>
+<br/><br/><u><b><big>2.Types of Rocks</big></b>
+</u><br/><br/>This consists of touchable image buttons.
+Upon touch a tab relating to that topic will be displayed.<br/>
+<br/><b>a. Igeneous</b><br/><br/><b>b. Metaphorphic</b><br/><br/><b>c. Sedimentary</b>
+<br/><br/><br/><b><u>2.1 About</u></b> &#45; Link to the about tab of the type of 
+rock.<br/><br/><b><u>2.2 List</u></b>  &#45;  List of all rocks in the selected 
+category.<br/><br/><b><u>2.3 Call</u></b>  &#45;  This is an exclusive feature 
+we have added to the app, on click , it will initiate 
+a call to the helpline provided within the app.<br/><br/>
+<b><u>2.4 Web Links</u></b>  &#45;  Links to various websites related to 
+geology can be found here for more information relating
+to a particular topic.<br/><br/><b><u>2.5 Email Us</u></b>  &#45;  This feature 
+is used to send an email to the email &#45; id provided in 
+the application.<br/><br/><b><u>2.6 Home</u></b>  &#45;  Go back to home 
+screen.<br/><br/><b><u>2.7 Back</u></b>  &#45;  Go back to previous screen.<br/>
+<br/><br/><u><b><big>3.Test Your Skills</big></b>
+</u><br/><br/>This is a quiz module, where the 
+users can take a quiz to test their knowledge.
+The quiz will contain  a number of questions and 
+at the end of the quiz will be provided with a score.
+<br/><br/><u><b><big>4.Help And Search</big></b></u>
+<br/><br/>Help is this tab that you have opened.
+The search is for searching from 44 different types
+of rocks. <br/><br/><b>16  &#45;  igenous</b> <br/><br/><b>14  &#45; 
+metamorphic </b><br/><br/><b> 14  &#45;  sedimantary.</b><br/><br/>
+<br/><u><b><big>5.Quit</big></b></u><br/><br/>
+Quit This Application.<br/>

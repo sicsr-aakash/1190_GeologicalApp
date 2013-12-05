@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/about"
+        android:showAsAction="always|withText"
+        android:icon="@android:drawable/ic_dialog_info"
+	    android:title="@string/about"/>
+    <item
+        android:id="@+id/list"
+        android:title="@string/list"
+       android:showAsAction="always|withText"
+       android:icon="@android:drawable/ic_menu_info_details"
+       
+    />
+   <item
+        android:id="@+id/call"
+        android:title="call"
+        android:icon="@android:drawable/ic_menu_call"
+       android:showAsAction="always|withText"
+    />
+   <item
+        android:id="@+id/web_link"
+        android:title="Web Links"
+        
+       android:showAsAction="never"
+       
+    />
+ 	<item
+        android:id="@+id/Email_Us"
+        android:title="Email Us"
+       android:showAsAction="never"
+    />
+ 	
+ 	<item
+        android:id="@+id/igneous_home"
+        android:title="Home"
+       android:showAsAction="never"
+    />
+ 	<item
+        android:id="@+id/igneous_back"
+        android:title="Back"
+       android:showAsAction="never"
+    />
+</menu>

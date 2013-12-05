@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+ <item
+        android:id="@+id/app_search"
+        android:showAsAction="always|withText"
+      	android:icon="@android:drawable/ic_menu_search"
+	    android:title="Search"/>
+    <item
+        android:id="@+id/app_help"
+        android:title="Help"
+         android:icon="@android:drawable/ic_menu_help"
+       android:showAsAction="always|withText"
+    />
+    <item
+        android:id="@+id/search_home"
+        android:title="Home"
+       android:showAsAction="never"
+    
+    />
+ 	<item
+        android:id="@+id/search_back"
+        android:title="Back"
+       android:showAsAction="never"
+    />
+</menu>
