@@ -20,7 +20,7 @@ It is an application which will aid Geology Students in Identifying and Studying
 
 4. A simple quiz in which the user will have to identify the rock according to the features provided.
 
-Install (Installation procedure): The application will installed on the device once the user selects the apk file and clicks on Install.
+Install (Installation procedure): The application will be installed on the device once the user selects the apk file and clicks on Install.
 
 Usage:-
 
