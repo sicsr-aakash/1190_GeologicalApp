@@ -37,7 +37,7 @@ Click on Help and Search to view information for a specific Rock. E.g. Andesite.
 
 Click on Quit to close the application.
 
-Contact (email id or mailing list link/google-group):- 
+Contact (email id or mailing list link/google-group):- gayatri.venugopal@sicsr.ac.in
 
 GNU GPL Version 3, 29 June 2007.
 
